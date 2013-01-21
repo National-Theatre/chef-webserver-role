@@ -1,3 +1,30 @@
 [submodule "cookbooks/base-chef"]
 	path = cookbooks/base-chef
 	url = git://github.com/jpd4nt/base-chef.git
+[submodule "cookbooks/webserver-chef"]
+	path = cookbooks/webserver-chef
+	url = git://github.com/jpd4nt/webserver-chef.git
+[submodule "cookbooks/apache2"]
+	path = cookbooks/apache2
+	url = git://github.com/opscode-cookbooks/apache2.git
+[submodule "cookbooks/cron"]
+	path = cookbooks/cron
+	url = git://github.com/opscode-cookbooks/cron.git
+[submodule "cookbooks/php"]
+	path = cookbooks/php
+	url = git://github.com/opscode-cookbooks/php.git
+[submodule "cookbooks/build-essential"]
+	path = cookbooks/build-essential
+	url = git://github.com/opscode-cookbooks/build-essential.git
+[submodule "cookbooks/xml"]
+	path = cookbooks/xml
+	url = git://github.com/opscode-cookbooks/xml.git
+[submodule "cookbooks/mysql"]
+	path = cookbooks/mysql
+	url = git://github.com/opscode-cookbooks/mysql.git
+[submodule "cookbooks/imagemagick"]
+	path = cookbooks/imagemagick
+	url = git://github.com/opscode-cookbooks/imagemagick.git
+[submodule "cookbooks/openssl"]
+	path = cookbooks/openssl
+	url = git://github.com/opscode-cookbooks/openssl.git
