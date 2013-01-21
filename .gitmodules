@@ -1,0 +1,3 @@
+[submodule "cookbooks/base-chef"]
+	path = cookbooks/base-chef
+	url = git://github.com/jpd4nt/base-chef.git
