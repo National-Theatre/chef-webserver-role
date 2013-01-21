@@ -31,3 +31,12 @@
 [submodule "cookbooks/sudo"]
 	path = cookbooks/sudo
 	url = git://github.com/opscode-cookbooks/sudo.git
+[submodule "cookbooks/mongodb"]
+	path = cookbooks/mongodb
+	url = git://github.com/edelight/chef-mongodb.git
+[submodule "cookbooks/apt"]
+	path = cookbooks/apt
+	url = git://github.com/opscode-cookbooks/apt.git
+[submodule "cookbooks/yum"]
+	path = cookbooks/yum
+	url = git://github.com/opscode-cookbooks/yum.git
