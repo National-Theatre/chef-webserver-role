@@ -28,3 +28,6 @@
 [submodule "cookbooks/openssl"]
 	path = cookbooks/openssl
 	url = git://github.com/opscode-cookbooks/openssl.git
+[submodule "cookbooks/sudo"]
+	path = cookbooks/sudo
+	url = git://github.com/opscode-cookbooks/sudo.git
