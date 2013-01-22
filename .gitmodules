@@ -40,3 +40,6 @@
 [submodule "cookbooks/yum"]
 	path = cookbooks/yum
 	url = git://github.com/opscode-cookbooks/yum.git
+[submodule "cookbooks/iptables"]
+	path = cookbooks/iptables
+	url = git://github.com/opscode-cookbooks/iptables.git
