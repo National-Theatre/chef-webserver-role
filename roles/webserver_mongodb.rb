@@ -1,12 +1,7 @@
 name "webserver_mongodb"
 description "Web server role with mongodb"
 all_env = [ 
-	"role[base]",
-	"recipe[php]",
-	"recipe[apache2]",
-	"recipe[apache2::mod_php5]",
-	"recipe[apache2::mod_rewrite]",
-	"recipe[webserver-chef]",
+	"role[webserver]",
 	"recipe[webserver-chef::mongodb_client]",
 ]
 
