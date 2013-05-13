@@ -6,7 +6,7 @@ all_env = [
 	"recipe[apache2]",
 	"recipe[apache2::mod_php5]",
 	"recipe[apache2::mod_rewrite]",
-        "recipe[apache2::mod_expire]",
+        "recipe[apache2::mod_expires]",
 	"recipe[webserver-chef]",
 ]
 
