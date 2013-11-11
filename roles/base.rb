@@ -3,6 +3,7 @@ description "Base role applied to all nodes."
 run_list(
   "recipe[sudo]",
   "recipe[cron]",
+  "recipe[newrelic]",
   "recipe[base-chef]"
 ) 
 override_attributes(
