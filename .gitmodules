@@ -46,3 +46,6 @@
 [submodule "cookbooks/newrelic"]
 	path = cookbooks/newrelic
 	url = git://github.com/escapestudios/chef-newrelic.git
+[submodule "cookbooks/hostsfile"]
+	path = cookbooks/hostsfile
+	url = git://github.com/customink-webops/hostsfile.git
