@@ -55,3 +55,6 @@
 [submodule "cookbooks/yum-mysql-community"]
 	path = cookbooks/yum-mysql-community
 	url = git://github.com/opscode-cookbooks/yum-mysql-community.git
+[submodule "cookbooks/drupal-configuration"]
+	path = cookbooks/drupal-configuration
+	url = git://github.com/National-Theatre/chef-drupal-configuration.git
