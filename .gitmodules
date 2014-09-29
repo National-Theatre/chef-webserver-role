@@ -49,3 +49,6 @@
 [submodule "cookbooks/hostsfile"]
 	path = cookbooks/hostsfile
 	url = git://github.com/customink-webops/hostsfile.git
+[submodule "cookbooks/drush"]
+	path = cookbooks/drush
+	url = git@github.com:msonnabaum/chef-drush.git
