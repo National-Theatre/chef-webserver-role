@@ -52,3 +52,6 @@
 [submodule "cookbooks/drush"]
 	path = cookbooks/drush
 	url = git@github.com:msonnabaum/chef-drush.git
+[submodule "cookbooks/yum-mysql-community"]
+	path = cookbooks/yum-mysql-community
+	url = git://github.com/opscode-cookbooks/yum-mysql-community.git
