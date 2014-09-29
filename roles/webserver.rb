@@ -8,6 +8,7 @@ all_env = [
 	"recipe[apache2::mod_rewrite]",
         "recipe[apache2::mod_expires]",
 	"recipe[webserver-chef]",
+        "recipe[newrelic::php-agent]",
 ]
 
 run_list(all_env)
