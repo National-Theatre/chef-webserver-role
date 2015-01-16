@@ -49,3 +49,6 @@
 [submodule "cookbooks/hostsfile"]
 	path = cookbooks/hostsfile
 	url = git://github.com/customink-webops/hostsfile.git
+[submodule "cookbooks/curl"]
+	path = cookbooks/curl
+	url = git://github.com/retr0h/cookbook-curl.git
