@@ -49,6 +49,15 @@
 [submodule "cookbooks/hostsfile"]
 	path = cookbooks/hostsfile
 	url = git://github.com/customink-webops/hostsfile.git
+[submodule "cookbooks/drush"]
+	path = cookbooks/drush
+	url = git@github.com:msonnabaum/chef-drush.git
+[submodule "cookbooks/yum-mysql-community"]
+	path = cookbooks/yum-mysql-community
+	url = git://github.com/opscode-cookbooks/yum-mysql-community.git
+[submodule "cookbooks/drupal-configuration"]
+	path = cookbooks/drupal-configuration
+	url = git://github.com/National-Theatre/chef-drupal-configuration.git
 [submodule "cookbooks/curl"]
 	path = cookbooks/curl
 	url = git://github.com/retr0h/cookbook-curl.git
