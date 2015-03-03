@@ -52,3 +52,6 @@
 [submodule "cookbooks/curl"]
 	path = cookbooks/curl
 	url = git://github.com/retr0h/cookbook-curl.git
+[submodule "cookbooks/blackfire"]
+	path = cookbooks/blackfire
+	url = git://github.com/blackfireio/blackfire-cookbook.git
